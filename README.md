@@ -22,3 +22,5 @@ Então vamos ver como isso funciona!?
 * E por fim, faremos um teste unitário e veremos o que o Sonar nos informa do projeto.
 
 
+## [Link do Vídeo](https://youtu.be/86Zb8l8n6Mc)
+
